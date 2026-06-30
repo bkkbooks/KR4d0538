@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0538/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部五
+  hash: sha256:91d391b03400458fe4b5406ed6606e69862a8e4f767c40fe8478f37cc3ae4e00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0538_WYG_000-1a, image: WYG1215/WYG1215-0459a.png}
+body:
+  text: 栲栳山人詩集别集類四元提要臣等謹案栲栳山人詩集三卷元岺安卿撰安卿字靜能餘姚人所居近栲栳峯故以自號志行髙潔窮厄以終其詩有云老成愧苟得童稚羞無官又云人視所為主結交慎攀援足見其堅苦自立之意集中次韓明善題推篷圖詩稱坡翁仙去二百春以蘇軾卒於宋徽宗初計之蓋當元之中葉故上得見厲元吉下得見危素也是集為安卿邑人宋禧編輯禧初名元僖洪武間召修元史曽為安卿題像者是集雖卷帙不多而戞戞孤往如其為人惟七言古詩時雜李賀溫庭筠之體蓋有元一代風氣如斯然氣骨本清究非圓熟穠冶之習也乾隆四十二年四月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:edd805654fc8bf106ad5ad0dff06ca00068530b53cc1ff142df47c4e17d0700e
+metadata:
+  title: 栲栳山人詩集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:13:36.014456'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0538/KR4d0538_000.txt
+hash: sha256:e2960ef80e19013fa00cd17a7fbf5e76a959cdba11f1ba3a54aa3103a5aff327
